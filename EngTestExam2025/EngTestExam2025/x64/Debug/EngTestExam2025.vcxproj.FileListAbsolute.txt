@@ -1,0 +1,3 @@
+X:\ОАиП\Exam\EngTestExam2025\EngTestExam2025\x64\Debug\EngTestExam2025.vcxproj.AssemblyReference.cache
+X:\ОАиП\Exam\EngTestExam2025\EngTestExam2025\x64\Debug\EngTestExam2025.MyForm.resources
+X:\ОАиП\Exam\EngTestExam2025\EngTestExam2025\x64\Debug\EngTestExam2025.vcxproj.GenerateResource.cache
